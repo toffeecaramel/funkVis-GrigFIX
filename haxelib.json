@@ -1,8 +1,8 @@
 {
-    "name": "funkin.vis",
-    "url": "https://github.com/FunkinCrew/funkVis",
+    "name": "funkin.visfix",
+    "url": "https://github.com/toffeecaramel/funkVis-GrigFIX",
     "license": "MIT",
-    "description": "Haxe FFT visulization stuff",
+    "description": "just a small adition lol",
     "classPath": "src",
     "tags": ["audio", "fft", "visualization"],
     "releasenote": "Initial release",

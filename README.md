@@ -6,7 +6,7 @@ On web it uses web browsers' `AnalyzerNode`, and on native it uses a Radix-2 FFT
 
 ## Installation
 
-`haxelib git funkin.vis https://github.com/FunkinCrew/funkVis`
+`haxelib git funkin.vis https://github.com/toffeecaramel/funkVis-GrigFIX`
 
 ## Usage
 

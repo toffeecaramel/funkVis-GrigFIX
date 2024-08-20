@@ -36,8 +36,7 @@
 	<!-- _______________________________ Libraries ______________________________ -->
 
 	<haxelib name="flixel" />
-	<haxelib name="grig.audio" />
-	<haxelib name="funkin.vis" />
+	<haxelib name="funkin.visfix" />
 	<!-- <haxeflag name="macro" value="instrument.Instrumentation.profiling(['funkin.vis.dsp.FFT'])" /> -->
 	<!-- <haxedef name="profiler-console-hierarchy-reporter" /> -->
 	<!--In case you want to use the addons package-->
