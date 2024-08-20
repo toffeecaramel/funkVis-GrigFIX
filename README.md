@@ -1,12 +1,12 @@
-# funkin.vis
+# funkin.visfix
 
-`funkin.vis` is a haxelib for processing audio data into frequency data using FFT's, created for Friday Night Funkin' by The Funkin' Crew Inc.
+`funkin.visfix` is a haxelib for processing audio data into frequency data using FFT's, originally created for Friday Night Funkin' by The Funkin' Crew Inc and modified by Toffee for usage in Moon Engine.
 
 On web it uses web browsers' `AnalyzerNode`, and on native it uses a Radix-2 FFT algorithm.
 
 ## Installation
 
-`haxelib git funkin.vis https://github.com/toffeecaramel/funkVis-GrigFIX`
+`haxelib git funkin.visfix https://github.com/toffeecaramel/funkVis-GrigFIX`
 
 ## Usage
 
